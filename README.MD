@@ -2,7 +2,7 @@
 
 ## 설명
 
-- '혼자 공부하는 머신러닝 + 딥러닝'을 통해 학습한 자료입니다. 내용은 아는 것들이 많아서, 코드 위주로 정리했습니다. 그리고 이 페이지에 있는 설명들은 GPT-4에 의해 작성되었습니다. 기초 과정이 필요하다면 이곳(https://github.com/foreverfl/-Book-Python-Data-Science-and-AI-Development)을 참조해주세요.
+- '혼자 공부하는 머신러닝 + 딥러닝'을 통해 학습한 자료입니다. 내용은 아는 것들이 많아서, 코드 위주로 정리했습니다. 그리고 이 페이지에 있는 설명들은 GPT-4에 의해 작성되었습니다. 기초 과정이 필요하다면 [이곳](https://github.com/foreverfl/-Book-Python-Data-Science-and-AI-Development)을 참조해주세요.
 
 ## 목차
 
