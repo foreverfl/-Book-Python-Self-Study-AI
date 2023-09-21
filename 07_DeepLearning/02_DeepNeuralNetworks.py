@@ -20,10 +20,10 @@ model.add(keras.layers.Flatten(input_shape=(28, 28)))
 model.add(keras.layers.Dense(100, activation='relu'))
 model.add(keras.layers.Dense(10, activation='softmax'))
 model.summary()
-
-# 모델 훈련
 model.compile(optimizer='adam',
               loss='sparse_categorical_crossentropy', metrics='accuracy')
+
+# 모델 훈련
 model.fit(train_scaled, train_target, epochs=5)
 
 # 모델 평가
